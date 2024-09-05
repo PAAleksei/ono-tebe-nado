@@ -292,7 +292,7 @@
     margin: 182px 24px 0px;
 }
 
-.about-logo-link{
+.about-logo-link {
     justify-self: center;
     grid-area: logo;
     display: flex;
