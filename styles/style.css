@@ -123,17 +123,17 @@
 
 .letter-space {
     display: inline-block;
-    margin: 0px 30px;    
+    margin: 0px 30px 0px;    
 }
 
 .first-letter-space-title-third {
     display: inline-block;
-    margin: 0px 30px; 
+    margin: 0px 30px 0px; 
 }
 
 .letter-space-title-third {
     display: inline-block;
-    margin: 0px 3.5px;  
+    margin: 0px 3.5px 0px;  
 }
 
 .subtitle-button {
