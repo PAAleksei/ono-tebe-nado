@@ -260,11 +260,11 @@
 
 .about {
   display: grid;
-  grid-template: 180px 160px 190px / 334px 1fr;
+  grid-template: 180px auto / 334px 1fr;
   grid-template-areas:
     "logo  header"
-    "logo p"
-    "logo p";
+    ". p"
+   ;
   gap: 24px 25px;
   width: 1052px;
   margin: 182px 24px 0;
